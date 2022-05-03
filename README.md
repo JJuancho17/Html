@@ -7,7 +7,7 @@ En este repositorio encontramos 15 paginas web realizadas en visual studio code 
 [1]![image](https://user-images.githubusercontent.com/101678261/166485595-0ba51f48-8def-43bb-9f1b-637482a9dea3.png)
 
 *Ejercicio 2:*
-[2]![image](https://user-images.githubusercontent.com/101678261/166485689-c73d4b7a-5e8f-4d6e-966f-d9591348316a.png)
+[2]![image](https://user-images.githubusercontent.com/101678261/166486602-85fbca05-92eb-4b36-90ad-c5c9d5683da2.png)
 
 *Ejercicio 3:*
 [3]![image](https://user-images.githubusercontent.com/101678261/166485776-f9b189cf-17fe-4753-b115-f8a575b5317a.png)
